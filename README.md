@@ -20,8 +20,8 @@ This is a work day scheduler. User can input tasks in text blocks and the task w
 
 
 ## Links
-- [Link to deployed site](https://brenthouston.github.io/Portfolio/)
-- [Link to code repository](https://github.com/brenthouston/Portfolio)
+- [Link to deployed site](https://brenthouston.github.io/Work-Day-Scheduler/)
+
 	
 ## Resources
 - [MDN](https://developer.mozilla.org/en-US/)
@@ -33,23 +33,6 @@ This is a work day scheduler. User can input tasks in text blocks and the task w
 
 ## Deployed App Screenshots
 
-Loaded on mobile viewport
-![Mobile viewport](https://github.com/brenthouston/Portfolio/blob/main/Images/deployed%20site%20loaded%20to%20small%20vierport.png)
-
 Loaded on desktop viewport
-![Desktop viewport](https://github.com/brenthouston/Portfolio/blob/main/Images/deployed%20site%20screenshot.png)
+![Screen shot of deployed site](https://github.com/brenthouston/Work-Day-Scheduler/blob/main/assets/images/Screenshot%202023-04-06%20at%208.19.48%20PM.png)
 
-
-
-
-
-
-
-
-
-https://blog.logrocket.com/localstorage-javascript-complete-guide/
-
-https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/
-
-
-https://day.js.org/docs/en/display/from-now
